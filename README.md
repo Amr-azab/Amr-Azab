@@ -1,5 +1,5 @@
 # Hi there, I'm Amr👋
-## I'm a Software Engineer driven by a passion for creating impactful technology.  I enjoy working with JavaScript, TypeScript, ReactJS and Node.js, and I'm excited to contribute to projects that truly matter.<br><br>- 💻 I'm a Software Engineer in Egypt.<br>- 🎓 Computer science and information technology graduate from The Future University In Egypt.<br>- 🔭 Passionate about continuous learning, coding best practices, and contributing to impactful projects. I’m always eager to explore new technologies and improve my skills.
+## I'm a Software Engineer driven by a passion for creating impactful technology.  I enjoy working with JavaScript, TypeScript, C# , ReactJS , Angular , Node.js and .NET, and I'm excited to contribute to projects that truly matter.<br><br>- 💻 I'm a Software Engineer in Egypt.<br>- 🎓 Computer science and information technology graduate from The Future University In Egypt.<br>- 🔭 Passionate about continuous learning, coding best practices, and contributing to impactful projects. I’m always eager to explore new technologies and improve my skills.
 
 ## 🌐 Socials:
 [![LinkedIn badge](https://img.shields.io/badge/linkedin-amrmohamed-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/amr-mohamed-b708a92a6/)
